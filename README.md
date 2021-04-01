@@ -1,2 +1,2 @@
-#  https://jogo-bom.io
+#  https://jogo-bom
 oi
